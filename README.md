@@ -3,9 +3,9 @@
 This is a Spring Boot project built with Maven as the dependency manager.
 
 ## Requirements
-. Java JDK (minimum version 11)
-. Maven installed
-. Postman (or a similar HTTP client) for testing the API endpoints
+- Java JDK (minimum version 11)
+- Maven installed
+- Postman (or a similar HTTP client) for testing the API endpoints
 
 ## How to run the application
 - Navigate to the root directory of the project in your terminal.

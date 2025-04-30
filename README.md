@@ -3,7 +3,7 @@
 This is a Spring Boot project built with Maven as the dependency manager.
 
 ## Requirements
-- Java JDK (minimum version 11)
+- Java JDK (minimum version 17)
 - Maven installed
 - Postman (or a similar HTTP client) for testing the API endpoints
 
@@ -22,6 +22,8 @@ Example (Postman): Send a GET request to http://localhost:9000/HelloWorld or htt
 Example (Postman): Send a GET request to http://localhost:9000/HelloWorld2 or http://localhost:9000/HelloWorld2/YourName.
 
 ## Maven Commands
+
+```bash
 - mvn clean: Cleans the project, removing the target directory.
 - mvn compile: Compiles the project.
 - mvn package: Packages the project into a JAR or WAR file in the target directory.
